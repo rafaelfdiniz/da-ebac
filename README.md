@@ -13,7 +13,8 @@
 ![image](https://github.com/rafaelfdiniz/da-ebac/assets/152647025/ebe4dcdc-46e7-4bc1-a8d3-233b6945fdc7)
 ### Com base no gráfico foi possível obervar qual foi com comportamento do preço durante os dias, bem como tendências.
 ## 3 E o gráfico gerado foi este
-![image](https://github.com/rafaelfdiniz/da-ebac/assets/152647025/c2068336-941a-472f-8aee-cee5d8fc4c18)
+![image](https://github.com/rafaelfdiniz/da-ebac/assets/152647025/8137e35e-3b64-4382-9e81-6c9b6ddc032d)
+
 
 ## Por final, utilizamos essas linhas de código para tranferir para o máquina remota(Github)
 ![image](https://github.com/rafaelfdiniz/da-ebac/assets/152647025/c4588bb8-bf6e-4b6c-9d91-fb1dc8e9b584)
