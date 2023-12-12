@@ -9,5 +9,5 @@ gasolina_df = pd.read_csv('gasolina.csv', sep=',')
 
 with sns.axes_style('whitegrid'):
 
-  gráfico = sns.lineplot(data = gasolina_df, x='dia', y = 'venda', palette='dark')
-  gráfico.set(title='Preço da gasolina por dia')
+  gráfico = sns.lineplot(data = gasolina_df, x='dia', y = 'venda', palette='deep')
+  gráfico.set(title='Gráfico Preço da Gasolina X Dia')
